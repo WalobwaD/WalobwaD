@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=walobwad" alt="walobwad" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/dannnttteee" target="blank"><img src="https://img.shields.io/twitter/follow/dannnttteee?logo=twitter&style=for-the-badge" alt="dannnttteee" /></a> </p>
-
 - 🌱 I’m currently learning **Django, React**
 
 - 💬 Ask me about **Django, React, Shell**
