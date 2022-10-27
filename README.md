@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Walobwa Dan</h1>
-<h3 align="center">A passionate full-stack web developer</h3>
+<h3 align="center">Full-Stack Web Developer</h3>
+
+<p>Visit my <a href="https://walobwa.netlify.app/" target="_blank">PORTFOLIO</a></p>
 
 
 
